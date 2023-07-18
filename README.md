@@ -69,4 +69,9 @@ Based on the analysis conducted, I have gained several valuable insights into th
 
 ****For more such insights, please view [my pizza analysis detailed report](https://docs.google.com/document/d/1eSTys1JWm5Rn4O4_951mRS2mmCHkaKxxI6GoTOYXKbI/edit?usp=sharing).**
 
-[pizza_]
+
+If you found this pizza sales analysis project helpful or interesting, please consider giving it a ⭐️. Your support is greatly appreciated!
+
+
+
+
