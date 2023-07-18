@@ -1,4 +1,3 @@
-# pizza-sales-analysis-using-sql
 
 # Pizza Sales Data Analysis
 
