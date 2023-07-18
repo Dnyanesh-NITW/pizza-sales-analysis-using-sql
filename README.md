@@ -32,11 +32,11 @@ https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 - unit_price: The price of a single unit of pizza.
 - total_price: The total price of the pizza order, calculated as the unit price multiplied by the
 quantity.
-● pizza_size: The size or dimensions of the pizza. (S,M,L,XL,XXL)
-● pizza_category: The category or classification of the pizza, indicating its type or style.
+- pizza_size: The size or dimensions of the pizza. (S,M,L,XL,XXL)
+- pizza_category: The category or classification of the pizza, indicating its type or style.
 (Classic, Veggie, Supreme, Chicken)
-● pizza_ingredients: The list of ingredients used in the pizza preparation.
-● pizza_name: The name or label assigned to each specific pizza.
+- pizza_ingredients: The list of ingredients used in the pizza preparation.
+- pizza_name: The name or label assigned to each specific pizza.
 
 3. Data Preprocessing: I performed data cleaning and transformation to ensure the dataset's quality and suitability for analysis. This included handling missing values, removing duplicates, and formatting data types.
 
