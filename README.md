@@ -1,7 +1,5 @@
 # pizza-sales-analysis-using-sql
 
-# pizza-sales-analysis-using-sql
-
 # Pizza Sales Data Analysis
 
 This project focuses on the analysis of pizza sales data to gain insights into customer preferences, revenue generation, and order patterns. The dataset used in this analysis contains information about pizza sales during the year 2015. By examining the data, my aim is to uncover valuable insights that can help inform business decisions and optimize the pizza shop's operations.
