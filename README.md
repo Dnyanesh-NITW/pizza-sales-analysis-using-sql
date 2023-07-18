@@ -23,14 +23,14 @@ community. The link to the dataset is given below:
 https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 
 2. Dataset Description: This pizza sales dataset make up 12 relevant features.
-● pizza_id: The unique identifier for each pizza in the dataset.
-● order_id: The unique identifier for each pizza order.
-● pizza_name_id: The identifier for each specific pizza name.
-● quantity: The number of pizzas ordered in each transaction.
-● order_date: The date when the pizza order was placed.
-● order_time: The time at which the pizza order was placed.
-● unit_price: The price of a single unit of pizza.
-● total_price: The total price of the pizza order, calculated as the unit price multiplied by the
+- pizza_id: The unique identifier for each pizza in the dataset.
+- order_id: The unique identifier for each pizza order.
+- pizza_name_id: The identifier for each specific pizza name.
+- quantity: The number of pizzas ordered in each transaction.
+- order_date: The date when the pizza order was placed.
+- order_time: The time at which the pizza order was placed.
+- unit_price: The price of a single unit of pizza.
+- total_price: The total price of the pizza order, calculated as the unit price multiplied by the
 quantity.
 ● pizza_size: The size or dimensions of the pizza. (S,M,L,XL,XXL)
 ● pizza_category: The category or classification of the pizza, indicating its type or style.
