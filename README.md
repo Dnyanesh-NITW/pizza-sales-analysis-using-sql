@@ -51,36 +51,21 @@ and establish relationships between entities. Dataset is divided into three tabl
 
 Based on the analysis conducted, I have gained several valuable insights into the pizza sales data. Here are the key insights we obtained:
 
-1. Lunchtime Rush: The most bustling period for the pizza shop is between 12 PM and 2 PM,
-indicating a significant influx of customers during lunch hours. This can be attributed to
-people taking their lunch breaks from work or school and seeking a quick and convenient
-meal option.
+1. **Lunchtime Rush:** The most bustling period for the pizza shop is between 12 PM and 2 PM, indicating a significant influx of customers during lunch hours. This can be attributed to people taking their lunch breaks from work or school and seeking a quick and convenient meal option.
 
-2. Sunday as the Least Busy Weekday: Sundays exhibit lower customer activity compared to
-other weekdays, suggesting that the shop's main customer base consists primarily of
-working individuals.
+2. **Sunday as the Least Busy Weekday:** Sundays exhibit lower customer activity compared to other weekdays, suggesting that the shop's main customer base consists primarily of working individuals.
 
-3. Seasonal Sales Patterns: Spring season experiences higher sales compared to other
-seasons, while sales during the fall season are relatively lower. T
+3. **Seasonal Sales Patterns:** Spring season experiences higher sales compared to other seasons, while sales during the fall season are relatively lower.
 
-4. Preference for Large Size: The most preferred pizza size by customers is large. This
-indicates a tendency for customers to order pizzas in groups, potentially for sharing among
-family, friends, or colleagues.
+4. **Preference for Large Size:** The most preferred pizza size by customers is large. This indicates a tendency for customers to order pizzas in groups, potentially for sharing among family, friends, or colleagues.
 
-5. Single Category for Each Pizza: Each pizza is classified into only one category out of the
-four available. 
+5. **Single Category for Each Pizza:** Each pizza is classified into only one category out of the four available.
 
-6. Chicken Toppings Preference: The Thai Chicken Pizza and
-the Big Meat Pizza, featuring the popular chicken topping, have emerged as top sellers, showcasing
-the importance of incorporating well-balanced flavor profiles that include chicken.
+6. **Chicken Toppings Preference:** The Thai Chicken Pizza and the Big Meat Pizza, featuring the popular chicken topping, have emerged as top sellers, showcasing the importance of incorporating well-balanced flavor profiles that include chicken.
 
-7. Classic Category Dominance: The Classic category emerges as the most ordered, highest
-revenue-generating, and most available pizza category. This popularity could be due to the
-timeless appeal and widespread recognition of classic pizza flavors, making them a go-to
-choice for customers.
+7. **Classic Category Dominance:** The Classic category emerges as the most ordered, highest revenue-generating, and most available pizza category. This popularity could be due to the timeless appeal and widespread recognition of classic pizza flavors, making them a go-to choice for customers.
 
-8. Average Pizza Per Order: With an average of 2.32 pizzas per order, it is evident that
-customers usually come in groups when ordering. This suggests that the pizza shop attracts
-customers looking to share a meal or cater to gatherings or social events.
+8. **Average Pizza Per Order:** With an average of 2.32 pizzas per order, it is evident that customers usually come in groups when ordering. This suggests that the pizza shop attracts customers looking to share a meal or cater to gatherings or social events.
+
 
 **For more such insights, please view my Pizza Analysis Detailed Report in this repostitory**
