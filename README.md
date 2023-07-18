@@ -42,9 +42,9 @@ quantity.
 4. Normalization: The normalization process aims to organize the dataset into multiple tables, minimize redundancy,
 and establish relationships between entities. Dataset is divided into three tables. pizza table, orders table, OrdersPizza table
 
-2. SQL Queries: We utilized SQL queries to extract relevant information from the dataset. This involved querying the database to obtain insights into customer preferences, revenue generation, and order patterns.
+2. SQL Queries: I have utilized SQL queries to extract relevant information from the dataset. This involved querying the database to obtain insights into customer preferences, revenue generation, and order patterns.
 
-3. Statistical Analysis: We applied various statistical techniques to uncover patterns and trends in the data. This included calculating summary statistics, identifying peak order times, and examining seasonal variations in sales.
+3. Statistical Analysis: I have applied various statistical techniques to uncover patterns and trends in the data. This included calculating summary statistics, identifying peak order times, and examining seasonal variations in sales.
 
 ## Insights
 
@@ -67,4 +67,6 @@ Based on the analysis conducted, I have gained several valuable insights into th
 8. **Average Pizza Per Order:** With an average of 2.32 pizzas per order, it is evident that customers usually come in groups when ordering. This suggests that the pizza shop attracts customers looking to share a meal or cater to gatherings or social events.
 
 
-**For more such insights, please view my Pizza Analysis Detailed Report in this repostitory**
+****For more such insights, please view [my pizza analysis detailed report](https://docs.google.com/document/d/1eSTys1JWm5Rn4O4_951mRS2mmCHkaKxxI6GoTOYXKbI/edit?usp=sharing).**
+
+[pizza_]
